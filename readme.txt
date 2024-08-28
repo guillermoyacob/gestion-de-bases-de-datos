@@ -1,4 +1,4 @@
-Trabajo práctico creado para la materia "Gestión de Bases de Datos" del tercer año de la carrera de "Análisis, desarrollo y programación de aplicaciones".
+Trabajo práctico creado para la materia "Gestión de Bases de Datos" del tercer año de la carrera de "Análisis, desarrollo y programación de aplicaciones", el cual consistía en instalar y gestionar una base de datos en un contenedor Docker.
 
 Se utilizó:
 -PostgreSQL
